@@ -267,7 +267,7 @@ Un uso frecuente de `zip` es para crear pares clave/valor y construir diccionari
 d = dict(zip(columnas, valores))
 ```
 
- Como cierre te dejamos un [video]() para este tema.
+
 
 ## Ejercicios
 

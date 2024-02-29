@@ -2,7 +2,7 @@
 
 # 6.2 Random
 
-En esta sección veremos algunas de las funciones del módulo `random`. Este módulo se usa para generar valores pseudo-aleatorios. Desde el punto de vista práctico, usaremos estos valores como perfectamente aleatorios --al ser la computadora una máquina determinística sabemos que esto no es completamente cierto. De hecho, en lo que sigue, por simplicidad, omitiremos el prefijo pseudo y hablaremos de números aleatorios aunque no lo sean exactamente. Si querés podés ver este [video]() sobre los temas de esta sección.
+En esta sección veremos algunas de las funciones del módulo `random`. Este módulo se usa para generar valores pseudo-aleatorios. Desde el punto de vista práctico, usaremos estos valores como perfectamente aleatorios --al ser la computadora una máquina determinística sabemos que esto no es completamente cierto. De hecho, en lo que sigue, por simplicidad, omitiremos el prefijo pseudo y hablaremos de números aleatorios aunque no lo sean exactamente.
 
 
 ## Valores discretos

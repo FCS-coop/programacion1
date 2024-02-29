@@ -167,7 +167,7 @@ Traceback (most recent call last):
 RuntimeError: ¡Qué moco!
 ```
 
-Alternativamente, esa excepción puede ser atrapada por un bloque `try-except`, pudiendo de esta forma evitar que el programa termine. Te dejamos un [video]() que repasa estos ejemplos.
+Alternativamente, esa excepción puede ser atrapada por un bloque `try-except`, pudiendo de esta forma evitar que el programa termine.
 
 ## Ejercicios
 

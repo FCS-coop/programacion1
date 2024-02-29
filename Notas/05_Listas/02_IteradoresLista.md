@@ -12,7 +12,6 @@ Queremos mostrarte en ejemplos concretos cómo distintas maneras de resolver un 
 
 El uso adecuado de estos conceptos puede hacer la diferencia entre un algoritmo que termina el procesamiento en unos pocos minutos o uno que hay que dejar corriendo dos días (y rezar para que no se corte la electricidad mientras corre).
 
-Si querés podés complementar la lectura de esta sección con un [video introductorio]() al tema.
 
 
 ## Búsqueda lineal
@@ -175,7 +174,7 @@ Probá tu función con algunos ejemplos:
 
 Agregale a tu programa `busqueda_en_listas.py` una función `buscar_n_elemento()` que reciba una lista y un elemento y devuelva la cantidad de veces que aparece el elemento en la lista. Probá también esta función con algunos ejemplos.
 
-Ayuda: si querés podés ver este [video]() donde hablamos de este ejercicio. Te dejamos también el [código](./buscar_elem.py) que usamos en el video.
+
 
 ### Ejercicio 5.4: Búsqueda de máximo y mínimo
 Agregale a tu archivo `busqueda_en_listas.py` una función `maximo()` que busque el valor máximo de una lista de números positivos. Python tiene el comando `max()` que ya hace esto, pero como práctica te proponemos que completes el siguiente código:

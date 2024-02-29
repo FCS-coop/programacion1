@@ -2,7 +2,7 @@
 
 # 5.3 Comprensión de listas
 
-Una tarea que realizamos una y otra vez es procesar los elementos de una lista. En esta sección introducimos la definición de listas por comprensión que es una herramienta potente para hacer exactamente eso. Si querés, podés ver este [video breve]() donde introducimos el tema, o también podés optar por un [video extendido](), donde usamos [este código](./listas.py).
+Una tarea que realizamos una y otra vez es procesar los elementos de una lista. En esta sección introducimos la definición de listas por comprensión que es una herramienta potente para hacer exactamente eso.
 
 ## Crear listas nuevas
 

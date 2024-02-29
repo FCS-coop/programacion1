@@ -6,7 +6,7 @@ Esta es una introducción a la biblioteca NumPy (**Numerical Python**) de Python
 
 Esta biblioteca permite trabajar cómodamente con matrices multidimensionales por medio del tipo **ndarray**, un objeto n-dimensional homogéneo (es decir, con todas sus entradas del mismo tipo), y con métodos para operar eficientemente sobre él. NumPy puede usarse para una amplia variedad de operaciones matemáticas sobre matrices. Le agrega a Python estructuras de datos muy potentes sobre las que puedés hacer cálculos y operar matemáticamente con eficiencia y a un alto nivel.
 
-Te dejamos un [video]() donde introducimos este tema.
+
 
 ##  Instalar e importar numpy
 

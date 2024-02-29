@@ -169,7 +169,7 @@ Si no le pasamos ningún archivo, va a mostrar el resultado para `camion.csv` po
 
 Guardá tu programa en el archivo `camion_commandline.py` para entregar al final de la clase.
 
-Te dejamos un [video]() explicando cómo funciona el pasaje de parámetros por línea de comandos en Python. 
+
 
 
 [Contenidos](../Contenidos.md) \| [Anterior (2 Errores)](02_Bugs.md) \| [Próximo (4 Cierre de la clase)](04_Cierre.md)

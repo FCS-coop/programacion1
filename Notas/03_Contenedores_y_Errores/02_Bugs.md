@@ -2,7 +2,7 @@
 
 # 3.2 Errores
 
-En esta sección hablamos sobre errores. Acá hay un [video]() sobre este tema.
+En esta sección hablamos sobre errores.
 
 ## Tres tipos de errores:
 
@@ -210,7 +210,7 @@ print(f"La suma da {a} + {b} = {c}")
 ### Ejercicio 3.9: Pisando memoria
 El siguiente ejemplo usa el dataset de la clase anterior, pero no lo imprime como corresponde, ¿podés determinar por qué y explicarlo brevemente en la versión corregida?
 
-Te dejamos un [video]() sobre este ejemplo.
+
 
 ```python
 import csv
