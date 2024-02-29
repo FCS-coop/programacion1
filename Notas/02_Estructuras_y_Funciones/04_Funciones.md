@@ -233,7 +233,6 @@ Kale no figura en el listado de precios.
 
 Guardá este código en un archivo `buscar_precios.py` para entregar al final de la clase.
 
-Acá te dejamos un [video]() en el que resolvemos un ejercicio similar al [Ejercicio 2.7](../02_Estructuras_y_Funciones/04_Funciones.md#ejercicio-27-buscar-precios) de diferentes formas, usando for y usando while.
 
 ### Ejercicio 2.8: Administración de errores
 Este ejercicio introduce el tema de administración de errores. Es un tema un poco avanzado. No te inquietes si no entendés aún en profundidad estos conceptos, los vamos a retomar más adelante. Simplemente nos parece que está bueno empezar desde temprano a hablar de estos temas.
