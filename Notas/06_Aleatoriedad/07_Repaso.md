@@ -2,11 +2,6 @@
 
 # 6.7 Revisitando ejercicios.
 
-A continuación dejamos unos links a unos videos sobre un par de ejercicios de pasados:
-
-1. Ejercicio [Ejercicio 6.2](../06_Aleatoriedad/02_Random.md#ejercicio-62-generala-no-necesariamente-servida) sobre la probabilidad de obtener una generala no servida resuelto por []() y por []().
-2. Ejercicio [Ejercicio 6.18](../06_Aleatoriedad/06_Figuritas.md#ejercicio-618) del [álbum de Figuritas]().
-
 ## Análisis de alternativas para *propagar*
 
 Los siguientes tres ejercicios proponen diferentes soluciones al [Ejercicio 5.6](../05_Listas/02_IteradoresLista.md#ejercicio-56-propagacion) de propagación del fuego. Vamos a analizar sus diferencias y comenzar a pensar en la eficiencia de cada algoritmo. Algunas soluciones tienen errores que deberás corregir oportunamente. ¡Usá el debugger de Python!
