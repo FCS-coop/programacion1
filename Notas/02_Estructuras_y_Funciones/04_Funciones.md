@@ -4,7 +4,6 @@
 
 A medida que tus programas se vuelven más largos y complejos, vas a necesitar organizarte. En esta sección vamos a introducir brevemente funciones y módulos de la biblioteca así como también la administración de errores y excepciones.
 
-Acá hay un [video introductorio]() al tema de funciones, y acá [hay otro]() sobre el manejo de errores y excepciones.
 
 ## Funciones a medida
 
@@ -322,7 +321,7 @@ Una cosa buena que tiene el módulo `csv` es que maneja solo una gran variedad d
 
 Modificá tu programa `costo_camion.py` para que use el módulo `csv` para leer los archivos CSV y probalo en un par de los ejemplos anteriores.
 
-Ahora que viste funciones, te dejamos un [video]() en el que repasamos el [Ejercicio 1.29](../01_Intro_a_Python/07_Listas.md#ejercicio-129-traductor-rustico-al-lenguaje-inclusivo) de lenguaje inclusivo usando una función.
+
 
 
 [Contenidos](../Contenidos.md) \| [Anterior (3 Manejo de archivos)](03_Archivos.md) \| [Próximo (5 Tipos y estructuras de datos)](05_TiposDatos.md)
