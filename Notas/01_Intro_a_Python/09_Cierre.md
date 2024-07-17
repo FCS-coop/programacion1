@@ -1,7 +1,7 @@
-[Contenidos](../Contenidos.md) \| [Anterior (7 Listas)](07_Listas.md)  
+[Contenidos](../Contenidos.md) \| [Anterior (8 Ejercicios extras)](08_Ejercicios_extra.md)  
 [Clase siguiente (2. Estructuras y funciones)](../02_Estructuras_y_Funciones/00_Resumen.md)
 
-# 1.8 Cierre de la clase
+# 1.9 Cierre de la clase
 
 En esta clase aprendimos a correr el intérprete de Python desde la línea de comandos para usarlo como una calculadora. Aprendimos a editar programas con un editor de texto y a correrlos en la terminal. Vimos diferentes tipos de datos: números enteros, números de punto flotante, cadenas y listas.
 
@@ -12,14 +12,8 @@ En esta clase aprendimos a correr el intérprete de Python desde la línea de co
     4. El archivo `geringoso.py` [Ejercicio 1.18](../01_Intro_a_Python/06_Strings.md#ejercicio-118-geringoso-rustico) (Geringoso). 
 
 
-Para finalizar, te pedimos que, si podés, completes 2 encuestas breves: la primera es sobre los contenidos de la clase para saber cómo te fué y la segunda es una encuesta anónima sobre la clase virtual:
-
-* [Encuesta de contenidos](https://forms.gle/E8Pvc9qF24UckHtT6)
-* [Encuesta anónima sobre la clase virtual](https://forms.gle/MoHfszVbSZTz9XNG6)
-
-
 ¡Gracias, nos vemos la siguiente clase!
 
 
-[Contenidos](../Contenidos.md) \| [Anterior (7 Listas)](07_Listas.md)  
+[Contenidos](../Contenidos.md) \| [Anterior (8 Ejercicios extras)](08_Ejercicios_extra.md)  
 [Clase siguiente (2. Estructuras y funciones)](../02_Estructuras_y_Funciones/00_Resumen.md)

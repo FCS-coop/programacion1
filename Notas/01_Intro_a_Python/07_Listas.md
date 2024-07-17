@@ -1,4 +1,4 @@
-[Contenidos](../Contenidos.md) \| [Anterior (6 Cadenas)](06_Strings.md) \| [Próximo (8 Cierre de la clase)](08_Cierre.md)
+[Contenidos](../Contenidos.md) \| [Anterior (6 Cadenas)](06_Strings.md) \| [Próximo (8 Ejercicios extras)](08_Ejercicios_extra.md)
 
 # 1.7 Listas
 
@@ -418,6 +418,5 @@ Queremos hacer un traductor que cambie las palabras masculinas de una frase por 
 
 Probá tu código con 'Los hermanos sean unidos porque ésa es la ley primera', '¿cómo transmitir a los otros el infinito Aleph?' y 'Todos, tu también'. ¿Qué falla en esta última? (¡no hace falta que lo resuelvas!)
 
-
-[Contenidos](../Contenidos.md) \| [Anterior (6 Cadenas)](06_Strings.md) \| [Próximo (8 Cierre de la clase)](08_Cierre.md)
+[Contenidos](../Contenidos.md) \| [Anterior (6 Cadenas)](06_Strings.md) \| [Próximo (8 Ejercicios extras)](08_Ejercicios_extra.md)
 
