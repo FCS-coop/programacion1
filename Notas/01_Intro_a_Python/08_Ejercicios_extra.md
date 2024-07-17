@@ -80,4 +80,7 @@ Escribir un programa que pregunte al usuario si quiere una pizza vegetariana o n
 * Si no los has hecho hasta el momento, continúa con los apartados 1.4 al 1.6 de la sección "03_Hello_world.md"
 * Continua con los apartados 1.7 al 1.13 de la sección: "04_Numeros"
 
+# Créditos
+Los ejercicios fueron adaptados de los publicados en [esta página](https://aprendeconalf.es/) 
+
 [Contenidos](../Contenidos.md) \| [Anterior (7 Listas)](07_Listas.md) \| [Próximo (9 Cierre de la clase)](09_Cierre.md)
